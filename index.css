@@ -11,3 +11,9 @@
 ul {
   list-style: none;
 }
+.user{
+  display: flex;
+  flex-direction: column;
+  margin: 15px 0;
+  text-align: center;
+}
